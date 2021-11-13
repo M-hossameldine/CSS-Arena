@@ -15,6 +15,7 @@ header {
   gap: 4rem;
 }
 
+/* The flex-basis values for both main and aside selectors define the breaking point between large and small screens */
 main {
   flex-basis: 50%;
   flex-grow: 9999;
